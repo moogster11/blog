@@ -1,18 +1,29 @@
 ---
-title: Johns first post
+title: Project links
 categories:
-- General
+- Projects
 excerpt: |
   A pot still is a type of still used in distilling spirits such as whisky or brandy. Heat is applied directly to the pot containing the wash (for whisky) or wine (for brandy).
 feature_text: |
-  ## The Pot Still
+  ## Projects
   The modern pot still is a descendant of the alembic, an earlier distillation device
 feature_image: "https://picsum.photos/2560/600?image=733"
 image: "https://picsum.photos/2560/600?image=733"
 ---
 
-A pot still is a type of still used in distilling spirits such as whisky or brandy. Heat is applied directly to the pot containing the wash (for whisky) or wine (for brandy). This is called a batch distillation (as opposed to a continuous distillation).
+## CRM
 
-At standard atmospheric pressure, alcohol boils at 78 °C (172 °F), while water boils at 100 °C (212 °F). During distillation, the vapour contains more alcohol than the liquid. When the vapours are condensed, the resulting liquid contains a higher concentration of alcohol. In the pot still, the alcohol and water vapour combine with esters and flow from the still through the condensing coil. There they condense into the first distillation liquid, the so-called "low wines". The low wines have a strength of about 25–35% alcohol by volume, and flow into a second still. It is then distilled a second time to produce the colourless spirit, collected at about 70% alcohol by volume. Colour is added through maturation in an oak aging barrel, and develops over time.
+[CRM Form requirements](https://sheffieldhallam.sharepoint.com/:x:/r/sites/8302/ecrm/CRM%20Project%20Team/_layouts/15/Doc.aspx?sourcedoc=%7B7C720F52-8972-4816-821E-5D2C9069C871%7D&file=Forms%20Requirements%20v0.3.xlsx&action=default&mobileredirect=true&DefaultItemOpen=1&ct=1643896239565&wdOrigin=OFFICECOM-WEB.START.OTHER&cid=2a4baa05-c6f3-46fd-a054-d5bc35a3202e)
 
-The modern pot still is a descendant of the alembic, an earlier distillation device.
+Form field mapping
+
+## Design system
+
+[Design system audit](https://docs.google.com/spreadsheets/d/1spdz4KEUq-43VQvWSxZDoHJJI0VFpFrlpILkt-_YhSo/edit#gid=139527586)
+
+## Study Here
+
+[IA mapping](https://docs.google.com/spreadsheets/d/1jw8AtEIr3-GHQOui9OVxNDqX5QTYjLUzFxTsWsHME4A/edit#gid=0)
+
+[IA Testing](https://docs.google.com/document/d/1I97Ok19ixu75U01ePac5_BukRen5YnetTlGTXWQk6HU/edit)
+
