@@ -21,7 +21,7 @@ aside: true
 
 <small>A small element</small>
 
-[A link](https://david.darn.es "A link")
+[CRM link](_posts/2022-01-02-CRM.md)
 
 Lorem ipsum dolor sit amet, consectetur adip* isicing elit, sed do eiusmod *tempor incididunt ut labore et dolore magna aliqua.
 
