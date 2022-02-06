@@ -1,13 +1,13 @@
 ---
-title: Elements
+title: Projects
 feature_text: |
-  A demo of Markdown and HTML includes
+  List of my projects
 feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: "A demo of Markdown and HTML includes"
 aside: true
 ---
 
-[CRM link](_posts/2022-01-02-CRM.md)
+[CRM link](CRMproject.md)
 
 Lorem ipsum dolor sit amet, consectetur adip* isicing elit, sed do eiusmod *tempor incididunt ut labore et dolore magna aliqua.
 
