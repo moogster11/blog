@@ -6,7 +6,7 @@ excerpt: |
   List of project links and docs
 feature_text: |
   ## Projects
-  The modern pot still is a descendant of the alembic, an earlier distillation device
+  Project list
 feature_image: "https://picsum.photos/2560/600?image=733"
 image: "https://picsum.photos/2560/600?image=733"
 ---
