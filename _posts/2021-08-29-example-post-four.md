@@ -17,7 +17,8 @@ image: "https://picsum.photos/2560/600?image=733"
 
 Form field mapping
 
-Figma - open day interfaces
+Figma - open day interface
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FgK3SlxGxXJMvn2KtOMCs7N%2FCRM---Open-day-journey%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 
 ### Design system
 
@@ -29,4 +30,3 @@ Figma - open day interfaces
 
 [IA Testing](https://docs.google.com/document/d/1I97Ok19ixu75U01ePac5_BukRen5YnetTlGTXWQk6HU/edit)
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FgK3SlxGxXJMvn2KtOMCs7N%2FCRM---Open-day-journey%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
