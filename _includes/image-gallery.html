@@ -1,0 +1,26 @@
+<section class="image-gallery" aria-label="Recent posts">
+  {% assign gallery_count = 0 %}
+  {% for post in site.posts limit:6 %}
+    {% assign image = post.feature_image | default: post.image %}
+    {% if image %}
+      {% assign gallery_count = gallery_count | plus: 1 %}
+      <a class="image-gallery__item" href="{{ site.baseurl }}{{ post.url }}">
+        <img
+          class="image-gallery__image"
+          src="{{ image }}"
+          alt=""
+          loading="lazy"
+          width="640"
+          height="360"
+        >
+        <span class="image-gallery__caption">
+          <span class="image-gallery__title">{{ post.title }}</span>
+          {% if post.excerpt %}<span class="image-gallery__excerpt">{{ post.excerpt | strip_html | truncatewords: 14 }}</span>{% endif %}
+        </span>
+      </a>
+    {% endif %}
+  {% endfor %}
+  {% if gallery_count == 0 %}
+    <p>No featured images are available yet.</p>
+  {% endif %}
+</section>
